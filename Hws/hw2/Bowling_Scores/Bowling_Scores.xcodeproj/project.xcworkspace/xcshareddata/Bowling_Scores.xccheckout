@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2F7BCED-2DB5-4AC0-891D-1D0FFDC9B1BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bowling_Scores</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>720748E7-86D0-4675-A163-E8FB76B862DC</key>
+		<string>https://github.com/kayzej/DataStructures</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hw2/Bowling_Scores/Bowling_Scores.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>720748E7-86D0-4675-A163-E8FB76B862DC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kayzej/DataStructures</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>720748E7-86D0-4675-A163-E8FB76B862DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>720748E7-86D0-4675-A163-E8FB76B862DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hws</string>
+		</dict>
+	</array>
+</dict>
+</plist>
